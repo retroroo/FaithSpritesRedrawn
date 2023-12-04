@@ -1,5 +1,5 @@
 # FaithSpritesRedrawn
-Faith sprites redrawn 1:1 pixel scale
+Faith CHAPTER 1 sprites redrawn 1:1 pixel scale
 
 WORK IN PROGRESS
 
